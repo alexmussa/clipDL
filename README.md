@@ -8,17 +8,11 @@ and clipping of the Aberrant Event dataset.
 To use this tool, you must have youtube-dl and ffmpeg 
 installed on your computer.
 
-1.) Clone this repository via 'git clone git@github.gatech.edu:amussa6/clip-DL.git'
-    Ensure you have a publickey attached to your computer (see 
-    https://help.github.com/enterprise/2.12/user/articles/which-remote-url-should-i-use/)
-    and are connected to the GATech VPN before cloning.       
+1.) Clone this repository via 'git clone https://github.com/alexmussa/clipDL.git'  
 
-2.) Run the command 'pip install -r requirements.txt'.
+2.) Install ffmpy (https://pypi.org/project/ffmpy/) and youtube-dl (https://ytdl-org.github.io/youtube-dl/download.html) manually following the links provided. 
 
-3.) Install wget, ffmpeg, and youtube-dl MANUALLY. Step 
-    2 will not install them for proper execution.
-
-4.) Run the command: 
+3.) Run the command: 
 
 ```bash
 cd ~/path_to/clone_location/clip-dl
