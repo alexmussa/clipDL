@@ -1,4 +1,4 @@
-# Aberrant Event CSV Parser, Downloader, and Clipper
+# clipDL
 
 This tool was developed for the parsing, downloading,
 and clipping of the Aberrant Event dataset.
