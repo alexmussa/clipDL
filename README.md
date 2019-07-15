@@ -1,8 +1,7 @@
 # Aberrant Event CSV Parser, Downloader, and Clipper
 
 This tool was developed for the parsing, downloading,
-and clipping of the Aberrant Event dataset. Annotation is
-provided via a seperate tool(https://github.gatech.edu/abattaje3/aberrant_video_annotator).
+and clipping of the Aberrant Event dataset.
 
 # Installation and Execution
 
