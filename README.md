@@ -39,6 +39,14 @@ optional arguments:
 ```
 # Additional Information
 
+## Input CSV
+
+The .csv file provided contains indicators as the what fields would go into each, 
+such as thh youtubeID, the start minute, start second, stop minute, stop second, 
+and the category (for naming purposes). To execute the download with the CSV, replace
+these prepopulate boxes with their appropriate attribute, save the csv, and use its
+file location in FLOC.
+
 ## Filename Output
 
 The file nameing of the output clips is as follows:
